@@ -14,14 +14,22 @@
 		margin-bottom: 4em;
 
 		.art-card {
-			height: 300px;
-			width: 100%;
 			background: #000;
-			color: $light;
+			height: 500px;
+			width: 100%;
 			padding: 1em 0;
+			position: relative;
+			// padding-bottom: 2em;
+
+			&::after {
+				content: '';
+				position: absolute;
+				inset: 0;
+				// background: red;
+			}
 
 			.img-wrap {
-				height: 200px;
+				height: 300px;
 				width: 100%;
 
 				.img {
@@ -54,18 +62,20 @@
 
 	@media screen and (min-width: 62em) {
 		.nav-btn-wrap {
-			// background: red;
+			background: red;
 			display: block;
 
 			button {
 				position: absolute;
-				height: 300px;
+				// top: 0;
+				height: 50px;
 				width: 50px;
 				cursor: pointer;
-				background: transparent;
+				// background: transparent;
 				color: $light;
 				border: none;
 				transition: all 0.5s ease-in-out;
+				z-index: 2;
 
 				i {
 					font-size: 2rem;
@@ -78,10 +88,14 @@
 
 			.left {
 				left: 0;
+				top: 40%;
+				transform: translateY(-60%);
 			}
 
 			.right {
 				right: 0;
+				top: 40%;
+				transform: translateY(-60%);
 			}
 		}
 

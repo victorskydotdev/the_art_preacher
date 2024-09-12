@@ -6,17 +6,17 @@
 		gap: 1em;
 
 		.art-wrap {
+			position: relative;
 			background: #000;
 			height: 500px;
 			width: 100%;
 			padding: 1em;
-			position: relative;
+			padding-bottom: 2em;
 
 			&::after {
 				content: '';
 				position: absolute;
 				inset: 0;
-				// background: red;
 			}
 
 			.wrapper {
@@ -32,12 +32,23 @@
 				}
 
 				.title {
-					color: $light;
+					// color: $light;
 					text-transform: uppercase;
+					position: relative;
+					z-index: 1;
+				}
+
+				.description {
+					position: relative;
+					z-index: 1;
+
+					p {
+						// color: $light;
+					}
 				}
 
 				.price {
-					color: $light;
+					// color: $light;
 				}
 			}
 		}
