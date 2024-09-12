@@ -1,0 +1,24 @@
+@import '../resets';
+
+.catelog-hero {
+	background: #000;
+	color: $light;
+	margin-bottom: 3em;
+
+	.container {
+		height: 10vh;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+
+		.heading {
+			text-align: center;
+			font-size: 2rem;
+			text-transform: capitalize;
+		}
+
+		@media screen and (min-width: 43em) {
+			height: 15vh;
+		}
+	}
+}

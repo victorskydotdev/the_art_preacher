@@ -1,0 +1,446 @@
+{
+	"art_works": [
+		{
+			"id": 1,
+
+			"image": "../assets/art_works/img-1.jpg",
+
+			"title": "Eureka",
+
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+
+			"price": 200000
+		},
+
+		{
+			"id": 2,
+
+			"image": "../assets/art_works/img-2.jpg",
+
+			"title": "VEIL OF SORROW",
+
+			"narrative": "This weight of inner pain and silent struggles we carry. Yet, within the sorrow, there’s a quiet resilience, a strength that comes from enduring hardship.",
+
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24.5x36 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 3,
+
+			"image": "../assets/art_works/img-3.jpg",
+
+			"title": "I HAVE MY HEAD IN THE SKY ",
+
+			"narrative": "Our dreams, imaginations, the sense of being disconnected from the tangible world into the infinite possibilities of our minds. DREAM BIG",
+
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24.5x36 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+		{
+			"id": 4,
+			"image": "../assets/art_works/img-4.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+		{
+			"id": 5,
+			"image": "../assets/art_works/img-5.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+		{
+			"id": 6,
+			"image": "../assets/art_works/img-6.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+		{
+			"id": 7,
+			"image": "../assets/art_works/img-7.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 8,
+			"image": "../assets/art_works/img-8.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 9,
+			"image": "../assets/art_works/img-9.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 10,
+			"image": "../assets/art_works/img-10.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 11,
+			"image": "../assets/art_works/img-11.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 12,
+			"image": "../assets/art_works/img-12.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 13,
+			"image": "../assets/art_works/img-13.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 14,
+			"image": "../assets/art_works/img-14.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 15,
+			"image": "../assets/art_works/img-15.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 16,
+			"image": "../assets/art_works/img-16.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 17,
+			"image": "../assets/art_works/img-17.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 18,
+			"image": "../assets/art_works/img-18.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 19,
+			"image": "../assets/art_works/img-19.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 20,
+			"image": "../assets/art_works/img-20.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 21,
+			"image": "../assets/art_works/img-21.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 22,
+			"image": "../assets/art_works/img-22.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 23,
+			"image": "../assets/art_works/img-23.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 24,
+			"image": "../assets/art_works/img-24.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 25,
+			"image": "../assets/art_works/img-25.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 26,
+			"image": "../assets/art_works/img-26.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 27,
+			"image": "../assets/art_works/img-27.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 28,
+			"image": "../assets/art_works/img-28.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 29,
+			"image": "../assets/art_works/img-29.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 30,
+			"image": "../assets/art_works/img-30.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		},
+
+		{
+			"id": 31,
+			"image": "../assets/art_works/img-31.jpg",
+			"title": " ",
+			"narrative": "The trilling moment when everything falls in place, and the world suddenly seems to makes perfect sense",
+			"description": {
+				"paint": "Acrylic, ink on canvas",
+				"dimension": "24x30 inches",
+				"year": "2024",
+				"artist": "Simon"
+			},
+			"price": 200000
+		}
+	]
+}

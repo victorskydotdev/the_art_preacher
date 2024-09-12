@@ -1,0 +1,53 @@
+@import '../resets';
+
+.catalog-section {
+	.container {
+		display: grid;
+		gap: 1em;
+
+		.art-wrap {
+			background: #000;
+			height: 500px;
+			width: 100%;
+			padding: 1em;
+			position: relative;
+
+			&::after {
+				content: '';
+				position: absolute;
+				inset: 0;
+				// background: red;
+			}
+
+			.wrapper {
+				.img-wrap {
+					height: 300px;
+					margin-bottom: 1em;
+
+					.img {
+						height: 100%;
+						width: 100%;
+						object-fit: cover;
+					}
+				}
+
+				.title {
+					color: $light;
+					text-transform: uppercase;
+				}
+
+				.price {
+					color: $light;
+				}
+			}
+		}
+
+		@media screen and (min-width: 43em) {
+			grid-template-columns: repeat(2, 1fr);
+		}
+
+		@media screen and (min-width: 62em) {
+			grid-template-columns: repeat(4, 1fr);
+		}
+	}
+}

@@ -1,0 +1,26 @@
+@import 'resets';
+
+.header-nav {
+	height: 15vh;
+	display: flex;
+	align-items: center;
+	margin-bottom: 5em;
+	padding-top: 2em;
+
+	.nav-container {
+		@include width-mixin();
+		height: fit-content;
+		display: flex;
+		justify-content: center;
+
+		.brand-logo-wrap {
+			// width: 150px;
+			height: 100px;
+			cursor: pointer;
+
+			.brand-logo {
+				height: 100%;
+			}
+		}
+	}
+}
